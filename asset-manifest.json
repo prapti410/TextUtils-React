@@ -1,22 +1,15 @@
 {
-  "files": {
-    "main.css": "/TextUtils-React/static/css/main.c4a8dad7.chunk.css",
-    "main.js": "/TextUtils-React/static/js/main.ef4eec27.chunk.js",
-    "main.js.map": "/TextUtils-React/static/js/main.ef4eec27.chunk.js.map",
-    "runtime-main.js": "/TextUtils-React/static/js/runtime-main.f5c32087.js",
-    "runtime-main.js.map": "/TextUtils-React/static/js/runtime-main.f5c32087.js.map",
-    "static/js/2.3dbd9900.chunk.js": "/TextUtils-React/static/js/2.3dbd9900.chunk.js",
-    "static/js/2.3dbd9900.chunk.js.map": "/TextUtils-React/static/js/2.3dbd9900.chunk.js.map",
-    "static/js/3.bf1ffd1d.chunk.js": "/TextUtils-React/static/js/3.bf1ffd1d.chunk.js",
-    "static/js/3.bf1ffd1d.chunk.js.map": "/TextUtils-React/static/js/3.bf1ffd1d.chunk.js.map",
-    "index.html": "/TextUtils-React/index.html",
-    "static/css/main.c4a8dad7.chunk.css.map": "/TextUtils-React/static/css/main.c4a8dad7.chunk.css.map",
-    "static/js/2.3dbd9900.chunk.js.LICENSE.txt": "/TextUtils-React/static/js/2.3dbd9900.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.f5c32087.js",
-    "static/js/2.3dbd9900.chunk.js",
-    "static/css/main.c4a8dad7.chunk.css",
-    "static/js/main.ef4eec27.chunk.js"
-  ]
+  "main.css": "/TextUtils-React/static/css/main.6396ecec.chunk.css",
+  "main.js": "/TextUtils-React/static/js/main.11dc5e8a.chunk.js",
+  "main.js.map": "/TextUtils-React/static/js/main.11dc5e8a.chunk.js.map",
+  "static/js/1.833a7611.chunk.js": "/TextUtils-React/static/js/1.833a7611.chunk.js",
+  "static/js/1.833a7611.chunk.js.map": "/TextUtils-React/static/js/1.833a7611.chunk.js.map",
+  "static/js/2.3a2e0e0b.chunk.js": "/TextUtils-React/static/js/2.3a2e0e0b.chunk.js",
+  "static/js/2.3a2e0e0b.chunk.js.map": "/TextUtils-React/static/js/2.3a2e0e0b.chunk.js.map",
+  "runtime~main.js": "/TextUtils-React/static/js/runtime~main.12ed300b.js",
+  "runtime~main.js.map": "/TextUtils-React/static/js/runtime~main.12ed300b.js.map",
+  "static/css/main.6396ecec.chunk.css.map": "/TextUtils-React/static/css/main.6396ecec.chunk.css.map",
+  "index.html": "/TextUtils-React/index.html",
+  "precache-manifest.3e914bddbd62f23d1d364bb1f699a799.js": "/TextUtils-React/precache-manifest.3e914bddbd62f23d1d364bb1f699a799.js",
+  "service-worker.js": "/TextUtils-React/service-worker.js"
 }
